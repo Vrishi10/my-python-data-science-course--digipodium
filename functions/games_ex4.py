@@ -15,7 +15,7 @@ def gamescr(title, bgcolor='gray', info="Play the Game"):
 
 def draw():
     if scr == 0:
-        gamescr(bgcolor='black', 'Amazing Game', 'Press space to Start')
+        gamescr('Amazing Game',bgcolor='black', 'Press space to Start')
     elif scr == 1:
         gamescr(bgcolor='green', title='Game is Running')
     elif scr == 2:
