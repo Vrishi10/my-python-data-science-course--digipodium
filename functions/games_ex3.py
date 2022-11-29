@@ -9,7 +9,7 @@ c = Actor('cookie_img',(randint(0,WIDTH), randint(0,HEIGHT)))
 
 title = "IRON-MAN GAME"
 score = 0
-music.play('bg')
+#music.play('bg')
 music.set_volume(0.2)
 
 def draw():
