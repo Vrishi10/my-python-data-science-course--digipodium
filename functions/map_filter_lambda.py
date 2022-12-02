@@ -17,5 +17,5 @@ print(ab)
 evens = list(filter(lambda i : i % 2 == 0, x))
 print(evens)
 
-# map checks all the values and performs same acfions on every value and returns thre value while map 
+# map checks all the values and performs same actions on every value and returns thre value while map 
 # is like to check between them , the value will be either true or false.
